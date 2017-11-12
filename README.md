@@ -73,4 +73,4 @@ export class TodoDao {
 
 7. Test script is not required.
 
-![](./src/assets/demo.png)
+![](https://github.com/maplefu0601/postAlbumTodo/blob/master/src/assets/demo.PNG)
