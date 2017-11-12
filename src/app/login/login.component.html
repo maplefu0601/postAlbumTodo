@@ -1,0 +1,4 @@
+<div *ngIf="!isLoggedIn()" class="center-content">
+  User name  <input type="email" placeholder={{defaultEmail}} [(ngModel)]="email">
+  <input type="button" value="Login" (click)="getUser(email)">
+</div>

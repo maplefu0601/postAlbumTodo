@@ -1,0 +1,17 @@
+div.content {
+    width: 100%;
+
+    
+}
+
+.login {
+    display: block;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.floatRight {
+    position: relative;
+    float: right;
+}
