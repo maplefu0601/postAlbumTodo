@@ -73,4 +73,4 @@ export class TodoDao {
 
 7. Test script is not required.
 
-![](./assets/demo.png)
+![](./src/assets/demo.png)
